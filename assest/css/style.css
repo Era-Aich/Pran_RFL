@@ -1,0 +1,110 @@
+.content-1{
+    height: 70px;
+    width: 100vw;
+  
+}
+
+.nav{
+    margin-right: 40px;
+}
+
+.nav-item{
+    font-size: 20px;
+}
+.nav-item i{
+ 
+}
+
+.fa-youtube-square{
+    color: red;
+}
+
+.fa-twitter-square{
+    color: darkcyan;
+}
+
+.fa-facebook-square{
+    color:blue;
+}
+
+.fa-linkedin{
+    color: blue;
+}
+
+.shop {
+   height: 50px; 
+   width: 100px;
+   /* background-color: red; */
+  margin-top: 6px;
+  /* overflow: hidden; */
+
+}
+.shop a{
+   margin-bottom: 20px;
+}
+
+.nav-2{
+height: 80px;
+    background-color:whitesmoke;
+    
+  /* box-shadow: 14px 5px 0px grey; */
+}
+.nav-item{
+ margin-left: 59px;
+ 
+}
+
+.model ul li a{
+    text-decoration: none;
+
+
+}
+
+.model ul li{
+    list-style: none;
+    padding-inline: 18px;
+}
+
+/* .modal{
+    width:364px;
+} */
+
+.modal2 ul li a{
+text-decoration: none;
+}
+
+.modal2 ul li{
+    list-style: none;
+}
+.slider{
+    height: 300px;
+
+  
+}
+
+.content{
+    height: 170px;
+    width: 100vw;
+    background-color:black;
+    margin-bottom: 400px;
+
+}
+
+.content ul li {
+  float: left;
+  display: inline;
+}
+
+.content ul li a{
+    padding:70px;
+    font-size: 40px;
+   padding-top: 20px;
+color:whitesmoke;
+}
+
+.content ul li h3{
+    padding: 70px;
+
+    color:whitesmoke;
+    
+}
